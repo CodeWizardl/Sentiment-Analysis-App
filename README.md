@@ -1,4 +1,4 @@
-![GaganpreetKaurKalsi (1600 × 840 px) (3)](https://user-images.githubusercontent.com/54144759/173081855-4057d6b4-2e57-475b-961e-5cdb91604bda.png)
+![Logo](https://github.com/CodeWizardl/Sentiment-Analysis-App/assets/142290678/351c8fb4-6e71-49f7-bb36-540090e0acbe)
 
 <br>
 
